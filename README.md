@@ -34,3 +34,8 @@ You can customize the project for your specific requirements by modifying the co
 2. Run the `test.py` script to initiate real-time ASL sign detection:
 3. The application will access your webcam and display the camera feed.
 4. Show ASL signs in front of your camera, and the detected sign will be displayed on the screen.
+
+##screenshots
+ Refer Project Report
+
+
