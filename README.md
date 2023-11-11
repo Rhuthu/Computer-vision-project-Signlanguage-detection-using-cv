@@ -1,5 +1,5 @@
 # Computer-vision-project-Signlanguage-detection-using-cv
-
+s7 
 # Features
 - Real-time hand detection and tracking.
 - Automatic cropping and standardization of hand sign images.
